@@ -1,2 +1,2 @@
-# LIV-LYF
+# Liv-Lyf
 A Disease Management Web-App
